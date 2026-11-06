@@ -3,5 +3,6 @@
     "config:recommended",
     "github>canonical/inference-snaps-dev//renovate/default.jsonc#IENG-2768-fix-renovate-config-for-ovms"
   ],
-  "forkProcessing": "enabled"
+  "forkProcessing": "enabled",
+  "prHourlyLimit": 0
 }
